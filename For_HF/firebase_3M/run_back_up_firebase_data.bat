@@ -1,0 +1,1 @@
+cmd /k "back_up_firebase_data.py"

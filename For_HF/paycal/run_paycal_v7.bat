@@ -1,0 +1,1 @@
+cmd /k "paycal_v7.py"

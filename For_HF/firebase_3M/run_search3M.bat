@@ -1,0 +1,1 @@
+cmd /k "search3M.py"

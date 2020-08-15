@@ -1,0 +1,1 @@
+cmd /k "python FA1_preprocess_wavacc_evenodd_beta.py"

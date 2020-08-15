@@ -1,0 +1,1105 @@
+2020-02-09 07:00:02 INFO: start
+2020-02-09 07:06:46 INFO: complete download from firebase.
+2020-02-09 07:06:49 INFO: start remove old folder.
+2020-02-09 07:08:08 INFO: complete remove old folder.
+2020-02-09 07:08:08 INFO: start copy to GD.
+2020-02-09 07:16:09 INFO: complete copy to GD.
+2020-02-09 07:16:09 INFO: end
+2020-02-09 07:16:09 INFO: elapsed time: 0:16:06
+2020-02-09 07:16:09 INFO: total: 1.63 GB
+
+2020-02-09 15:29:22 INFO: start
+2020-02-09 15:33:58 INFO: complete download from firebase.
+2020-02-09 15:33:59 INFO: start remove old folder.
+2020-02-09 15:35:30 INFO: complete remove old folder. (2:29)
+2020-02-09 15:35:30 INFO: start copy to GD.
+2020-02-09 15:44:02 INFO: complete copy to GD. (8:30)
+2020-02-09 15:44:02 INFO: end
+2020-02-09 15:44:02 INFO: elapsed time: 0:14:40
+2020-02-09 15:44:02 INFO: total: 1.633 GB
+
+2020-02-09 17:40:30 INFO: start download from firebase.
+2020-02-09 17:44:38 INFO: complete download from firebase.
+2020-02-09 17:44:38 INFO: download elapsed time: 0:04:08
+2020-02-09 17:44:39 INFO: start copy to GD.
+2020-02-09 17:53:25 INFO: complete copy to GD. (by shutil)
+2020-02-09 17:53:25 INFO: copy elapsed time: 0:08:47
+2020-02-09 17:53:25 INFO: total elapsed time: 0:12:55
+2020-02-09 17:53:25 INFO: total: 1.633 GB
+
+2020-02-09 19:20:51 INFO: start download from firebase.
+2020-02-09 19:24:55 INFO: complete download from firebase.
+2020-02-09 19:24:55 INFO: download elapsed time: 0:04:03
+2020-02-09 19:24:56 INFO: start copy to GD.
+2020-02-09 19:33:58 INFO: complete copy to GD. (by system copy)
+2020-02-09 19:33:58 INFO: copy elapsed time: 0:09:02
+2020-02-09 19:33:58 INFO: total elapsed time: 0:13:06
+2020-02-09 19:33:58 INFO: total: 1.633 GB
+
+2020-02-09 19:59:28 INFO: start download from firebase.
+2020-02-09 20:03:32 INFO: complete download from firebase.
+2020-02-09 20:03:32 INFO: download elapsed time: 0:04:03
+2020-02-09 20:03:33 INFO: start copy to GD.
+2020-02-09 20:11:51 INFO: complete copy to GD. (by shutil)
+2020-02-09 20:11:51 INFO: copy elapsed time: 0:08:19
+2020-02-09 20:11:51 INFO: total elapsed time: 0:12:23
+2020-02-09 20:11:51 INFO: total: 1.633 GB
+
+2020-02-09 20:12:35 INFO: start download from firebase.
+2020-02-09 20:16:39 INFO: complete download from firebase.
+2020-02-09 20:16:39 INFO: download elapsed time: 0:04:04
+2020-02-09 20:16:40 INFO: start copy to GD.
+2020-02-09 20:25:15 INFO: complete copy to GD. (by system copy)
+2020-02-09 20:25:15 INFO: copy elapsed time: 0:08:36
+2020-02-09 20:25:15 INFO: total elapsed time: 0:12:40
+2020-02-09 20:25:15 INFO: total: 1.633 GB
+
+2020-02-10 07:00:02 INFO: start download from firebase.
+2020-02-10 07:04:04 INFO: complete download from firebase.
+2020-02-10 07:04:04 INFO: download elapsed time: 0:04:02
+2020-02-10 07:04:05 INFO: start copy to GD.
+2020-02-10 07:13:15 INFO: complete copy to GD. (by system copy)
+2020-02-10 07:13:15 INFO: copy elapsed time: 0:09:10
+2020-02-10 07:13:15 INFO: total elapsed time: 0:13:13
+2020-02-10 07:13:15 INFO: total: 1.633 GB
+
+
+2020-02-10 15:00:40 INFO: start download from firebase.
+2020-02-10 15:08:42 INFO: complete download from firebase.
+2020-02-10 15:08:42 INFO: download elapsed time: 0:08:01
+2020-02-10 15:08:43 INFO: start copy to GD.
+2020-02-10 15:16:46 INFO: complete copy to GD. (by system copy)
+2020-02-10 15:16:46 INFO: copy elapsed time: 0:08:04
+2020-02-10 15:16:46 INFO: total elapsed time: 0:16:06
+2020-02-10 15:16:46 INFO: total: 1.637 GB
+
+2020-02-11 07:00:01 INFO: start download from firebase.
+2020-02-11 07:06:52 INFO: complete download from firebase.
+2020-02-11 07:06:52 INFO: download elapsed time: 0:06:50
+2020-02-11 07:06:53 INFO: start copy to GD.
+2020-02-11 07:15:05 INFO: complete copy to GD. (by system copy)
+2020-02-11 07:15:05 INFO: copy elapsed time: 0:08:13
+2020-02-11 07:15:05 INFO: total elapsed time: 0:15:03
+2020-02-11 07:15:05 INFO: total: 1.638 GB
+
+2020-02-12 10:09:04 INFO: start download from firebase.
+2020-02-12 10:17:56 INFO: complete download from firebase.
+2020-02-12 10:17:56 INFO: download elapsed time: 0:08:52
+2020-02-12 10:17:58 INFO: start copy to GD.
+2020-02-12 10:26:47 INFO: complete copy to GD. (by system copy)
+2020-02-12 10:26:47 INFO: copy elapsed time: 0:08:51
+2020-02-12 10:26:47 INFO: total elapsed time: 0:17:43
+2020-02-12 10:26:47 INFO: total: 1.660 GB
+
+2020-02-13 07:00:02 INFO: start download from firebase.
+2020-02-13 07:08:31 INFO: complete download from firebase.
+2020-02-13 07:08:31 INFO: download elapsed time: 0:08:29
+2020-02-13 07:08:33 INFO: start copy to GD.
+2020-02-13 07:16:48 INFO: complete copy to GD. (by system copy)
+2020-02-13 07:16:48 INFO: copy elapsed time: 0:08:17
+2020-02-13 07:16:48 INFO: total elapsed time: 0:16:46
+2020-02-13 07:16:48 INFO: total: 1.673 GB
+
+2020-02-14 07:00:02 INFO: start download from firebase.
+2020-02-14 07:08:45 INFO: complete download from firebase.
+2020-02-14 07:08:45 INFO: download elapsed time: 0:08:42
+2020-02-14 07:08:47 INFO: start copy to GD.
+2020-02-14 07:18:23 INFO: complete copy to GD. (by system copy)
+2020-02-14 07:18:23 INFO: copy elapsed time: 0:09:38
+2020-02-14 07:18:23 INFO: total elapsed time: 0:18:21
+2020-02-14 07:18:23 INFO: total: 1.689 GB
+
+2020-02-15 07:00:01 INFO: start download from firebase.
+2020-02-15 07:09:04 INFO: complete download from firebase.
+2020-02-15 07:09:04 INFO: download elapsed time: 0:09:02
+2020-02-15 07:09:06 INFO: start copy to GD.
+2020-02-15 07:18:00 INFO: complete copy to GD. (by system copy)
+2020-02-15 07:18:00 INFO: copy elapsed time: 0:08:56
+2020-02-15 07:18:00 INFO: total elapsed time: 0:17:58
+2020-02-15 07:18:00 INFO: total: 1.708 GB
+
+2020-02-16 07:00:01 INFO: start download from firebase.
+2020-02-16 07:08:11 INFO: complete download from firebase.
+2020-02-16 07:08:11 INFO: download elapsed time: 0:08:09
+2020-02-16 07:08:14 INFO: start copy to GD.
+2020-02-16 07:17:16 INFO: complete copy to GD. (by system copy)
+2020-02-16 07:17:16 INFO: copy elapsed time: 0:09:04
+2020-02-16 07:17:16 INFO: total elapsed time: 0:17:14
+2020-02-16 07:17:16 INFO: total: 1.708 GB
+
+2020-02-17 07:00:02 INFO: start download from firebase.
+2020-02-17 07:07:34 INFO: complete download from firebase.
+2020-02-17 07:07:34 INFO: download elapsed time: 0:07:32
+2020-02-17 07:07:37 INFO: start copy to GD.
+2020-02-17 07:16:43 INFO: complete copy to GD. (by system copy)
+2020-02-17 07:16:43 INFO: copy elapsed time: 0:09:08
+2020-02-17 07:16:43 INFO: total elapsed time: 0:16:40
+2020-02-17 07:16:43 INFO: total: 1.708 GB
+
+2020-02-18 07:00:01 INFO: start download from firebase.
+2020-02-18 07:07:37 INFO: complete download from firebase.
+2020-02-18 07:07:37 INFO: download elapsed time: 0:07:35
+2020-02-18 07:07:40 INFO: start copy to GD.
+2020-02-18 07:17:07 INFO: complete copy to GD. (by system copy)
+2020-02-18 07:17:07 INFO: copy elapsed time: 0:09:30
+2020-02-18 07:17:07 INFO: total elapsed time: 0:17:05
+2020-02-18 07:17:07 INFO: total: 1.718 GB
+
+2020-02-18 14:18:59 INFO: start download from firebase.
+2020-02-18 14:19:00 INFO: complete download from firebase.
+2020-02-18 14:19:00 INFO: download elapsed time: 0:00:01
+2020-02-18 14:19:04 INFO: start download from firebase.
+2020-02-18 14:27:45 INFO: complete download from firebase.
+2020-02-18 14:27:45 INFO: download elapsed time: 0:08:40
+2020-02-18 14:27:46 INFO: start copy to GD.
+2020-02-18 14:37:44 INFO: complete copy to GD. (by system copy)
+2020-02-18 14:37:44 INFO: copy elapsed time: 0:09:58
+2020-02-18 14:37:44 INFO: total elapsed time: 0:18:39
+2020-02-18 14:37:44 INFO: total: 1.739 GB
+
+2020-02-19 07:00:02 INFO: start download from firebase.
+2020-02-19 07:07:10 INFO: complete download from firebase.
+2020-02-19 07:07:10 INFO: download elapsed time: 0:07:08
+2020-02-19 07:07:17 INFO: start copy to GD.
+2020-02-19 07:16:49 INFO: complete copy to GD. (by system copy)
+2020-02-19 07:16:49 INFO: copy elapsed time: 0:09:39
+2020-02-19 07:16:49 INFO: total elapsed time: 0:16:47
+2020-02-19 07:16:49 INFO: total: 1.739 GB
+
+2020-02-19 18:43:25 INFO: start download from firebase.
+2020-02-19 18:51:01 INFO: complete download from firebase.
+2020-02-19 18:51:01 INFO: download elapsed time: 0:07:36
+2020-02-19 18:51:02 INFO: start copy to GD.
+2020-02-19 19:01:05 INFO: complete copy to GD. (by system copy)
+2020-02-19 19:01:05 INFO: copy elapsed time: 0:10:03
+2020-02-19 19:01:05 INFO: total elapsed time: 0:17:39
+2020-02-19 19:01:05 INFO: total: 1.746 GB
+
+2020-02-20 07:00:02 INFO: start download from firebase.
+2020-02-20 07:06:44 INFO: complete download from firebase.
+2020-02-20 07:06:44 INFO: download elapsed time: 0:06:42
+2020-02-20 07:06:47 INFO: start copy to GD.
+2020-02-20 07:16:23 INFO: complete copy to GD. (by system copy)
+2020-02-20 07:16:23 INFO: copy elapsed time: 0:09:39
+2020-02-20 07:16:23 INFO: total elapsed time: 0:16:21
+2020-02-20 07:16:23 INFO: total: 1.746 GB
+
+2020-02-21 07:00:01 INFO: start download from firebase.
+2020-02-21 07:13:14 INFO: complete download from firebase.
+2020-02-21 07:13:14 INFO: download elapsed time: 0:13:13
+2020-02-21 07:13:18 INFO: start copy to GD.
+2020-02-21 07:22:26 INFO: complete copy to GD. (by system copy)
+2020-02-21 07:22:26 INFO: copy elapsed time: 0:09:11
+2020-02-21 07:22:26 INFO: total elapsed time: 0:22:24
+2020-02-21 07:22:26 INFO: total: 1.752 GB
+
+2020-02-21 16:50:19 INFO: start download from firebase.
+2020-02-21 16:57:32 INFO: complete download from firebase.
+2020-02-21 16:57:32 INFO: download elapsed time: 0:07:13
+2020-02-21 16:57:34 INFO: start copy to GD.
+2020-02-21 17:07:42 INFO: complete copy to GD. (by system copy)
+2020-02-21 17:07:42 INFO: copy elapsed time: 0:10:09
+2020-02-21 17:07:42 INFO: total elapsed time: 0:17:22
+2020-02-21 17:07:42 INFO: total: 1.756 GB
+2020-02-21 17:07:42 INFO: total: 14858 wavs
+
+2020-02-22 07:00:02 INFO: start download from firebase.
+2020-02-22 07:06:38 INFO: complete download from firebase.
+2020-02-22 07:06:38 INFO: download elapsed time: 0:06:35
+2020-02-22 07:06:43 INFO: start copy to GD.
+2020-02-22 07:15:51 INFO: complete copy to GD. (by system copy)
+2020-02-22 07:15:51 INFO: copy elapsed time: 0:09:13
+2020-02-22 07:15:51 INFO: total elapsed time: 0:15:49
+2020-02-22 07:15:51 INFO: total: 1.756 GB
+2020-02-22 07:15:51 INFO: total: 14858 wavs
+
+2020-02-23 07:00:02 INFO: start download from firebase.
+2020-02-23 07:07:19 INFO: complete download from firebase.
+2020-02-23 07:07:19 INFO: download elapsed time: 0:07:16
+2020-02-23 07:07:23 INFO: start copy to GD.
+2020-02-23 07:16:46 INFO: complete copy to GD. (by system copy)
+2020-02-23 07:16:46 INFO: copy elapsed time: 0:09:26
+2020-02-23 07:16:46 INFO: total elapsed time: 0:16:43
+2020-02-23 07:16:46 INFO: total: 1.756 GB
+2020-02-23 07:16:46 INFO: total: 14858 wavs
+
+2020-02-24 07:00:02 INFO: start download from firebase.
+2020-02-24 07:07:12 INFO: complete download from firebase.
+2020-02-24 07:07:12 INFO: download elapsed time: 0:07:10
+2020-02-24 07:07:16 INFO: start copy to GD.
+2020-02-24 07:17:02 INFO: complete copy to GD. (by system copy)
+2020-02-24 07:17:02 INFO: copy elapsed time: 0:09:50
+2020-02-24 07:17:02 INFO: total elapsed time: 0:17:00
+2020-02-24 07:17:02 INFO: total: 1.757 GB
+2020-02-24 07:17:02 INFO: total: 14866 wavs
+
+2020-02-25 07:00:02 INFO: start download from firebase.
+2020-02-25 07:08:00 INFO: complete download from firebase.
+2020-02-25 07:08:00 INFO: download elapsed time: 0:07:58
+2020-02-25 07:08:12 INFO: start copy to GD.
+2020-02-25 07:18:48 INFO: complete copy to GD. (by system copy)
+2020-02-25 07:18:48 INFO: copy elapsed time: 0:10:48
+2020-02-25 07:18:48 INFO: total elapsed time: 0:18:46
+2020-02-25 07:18:48 INFO: total: 1.765 GB
+2020-02-25 07:18:48 INFO: total: 14930 wavs
+
+2020-02-26 07:00:02 INFO: start download from firebase.
+2020-02-26 07:07:49 INFO: complete download from firebase.
+2020-02-26 07:07:49 INFO: download elapsed time: 0:07:47
+2020-02-26 07:07:53 INFO: start copy to GD.
+2020-02-26 07:17:48 INFO: complete copy to GD. (by system copy)
+2020-02-26 07:17:48 INFO: copy elapsed time: 0:09:58
+2020-02-26 07:17:48 INFO: total elapsed time: 0:17:45
+2020-02-26 07:17:48 INFO: total: 1.785 GB
+2020-02-26 07:17:48 INFO: total: 15098 wavs
+
+2020-02-27 07:00:02 INFO: start download from firebase.
+2020-02-27 07:07:44 INFO: complete download from firebase.
+2020-02-27 07:07:44 INFO: download elapsed time: 0:07:41
+2020-02-27 07:07:47 INFO: start copy to GD.
+2020-02-27 07:17:51 INFO: complete copy to GD. (by system copy)
+2020-02-27 07:17:51 INFO: copy elapsed time: 0:10:07
+2020-02-27 07:17:51 INFO: total elapsed time: 0:17:49
+2020-02-27 07:17:51 INFO: total: 1.792 GB
+2020-02-27 07:17:51 INFO: total: 15162 wavs
+
+2020-02-28 07:00:01 INFO: start download from firebase.
+2020-02-28 07:07:37 INFO: complete download from firebase.
+2020-02-28 07:07:37 INFO: download elapsed time: 0:07:35
+2020-02-28 07:07:42 INFO: start copy to GD.
+2020-02-28 07:17:23 INFO: complete copy to GD. (by system copy)
+2020-02-28 07:17:23 INFO: copy elapsed time: 0:09:46
+2020-02-28 07:17:23 INFO: total elapsed time: 0:17:21
+2020-02-28 07:17:23 INFO: total: 1.798 GB
+2020-02-28 07:17:23 INFO: total: 15210 wavs
+
+2020-02-29 07:00:02 INFO: start download from firebase.
+2020-02-29 07:07:16 INFO: complete download from firebase.
+2020-02-29 07:07:16 INFO: download elapsed time: 0:07:13
+2020-02-29 07:07:23 INFO: start copy to GD.
+2020-02-29 07:17:09 INFO: complete copy to GD. (by system copy)
+2020-02-29 07:17:09 INFO: copy elapsed time: 0:09:53
+2020-02-29 07:17:09 INFO: total elapsed time: 0:17:07
+2020-02-29 07:17:09 INFO: total: 1.798 GB
+2020-02-29 07:17:09 INFO: total: 15210 wavs
+
+2020-03-01 07:00:02 INFO: start download from firebase.
+2020-03-01 07:07:21 INFO: complete download from firebase.
+2020-03-01 07:07:21 INFO: download elapsed time: 0:07:19
+2020-03-01 07:07:32 INFO: start copy to GD.
+2020-03-01 07:17:05 INFO: complete copy to GD. (by system copy)
+2020-03-01 07:17:05 INFO: copy elapsed time: 0:09:43
+2020-03-01 07:17:05 INFO: total elapsed time: 0:17:02
+2020-03-01 07:17:05 INFO: total: 1.798 GB
+2020-03-01 07:17:05 INFO: total: 15210 wavs
+
+2020-03-02 07:00:03 INFO: start download from firebase.
+2020-03-02 07:12:55 INFO: complete download from firebase.
+2020-03-02 07:12:55 INFO: download elapsed time: 0:12:52
+2020-03-02 07:13:00 INFO: start copy to GD.
+2020-03-02 07:22:11 INFO: complete copy to GD. (by system copy)
+2020-03-02 07:22:11 INFO: copy elapsed time: 0:09:15
+2020-03-02 07:22:11 INFO: total elapsed time: 0:22:07
+2020-03-02 07:22:11 INFO: total: 1.798 GB
+2020-03-02 07:22:11 INFO: total: 15210 wavs
+
+2020-03-03 07:00:02 INFO: start download from firebase.
+2020-03-03 07:10:24 INFO: complete download from firebase.
+2020-03-03 07:10:24 INFO: download elapsed time: 0:10:22
+2020-03-03 07:10:30 INFO: start copy to GD.
+2020-03-03 07:20:02 INFO: complete copy to GD. (by system copy)
+2020-03-03 07:20:02 INFO: copy elapsed time: 0:09:38
+2020-03-03 07:20:02 INFO: total elapsed time: 0:20:00
+2020-03-03 07:20:02 INFO: total: 1.804 GB
+2020-03-03 07:20:02 INFO: total: 15266 wavs
+
+2020-03-04 07:00:02 INFO: start download from firebase.
+2020-03-04 07:09:58 INFO: complete download from firebase.
+2020-03-04 07:09:58 INFO: download elapsed time: 0:09:55
+2020-03-04 07:10:08 INFO: start copy to GD.
+2020-03-04 07:20:40 INFO: complete copy to GD. (by system copy)
+2020-03-04 07:20:40 INFO: copy elapsed time: 0:10:42
+2020-03-04 07:20:40 INFO: total elapsed time: 0:20:37
+2020-03-04 07:20:40 INFO: total: 1.821 GB
+2020-03-04 07:20:40 INFO: total: 15410 wavs
+
+2020-03-05 07:00:02 INFO: start download from firebase.
+2020-03-05 07:09:50 INFO: complete download from firebase.
+2020-03-05 07:09:50 INFO: download elapsed time: 0:09:47
+2020-03-05 07:09:54 INFO: start copy to GD.
+2020-03-05 07:20:51 INFO: complete copy to GD. (by system copy)
+2020-03-05 07:20:51 INFO: copy elapsed time: 0:11:01
+2020-03-05 07:20:51 INFO: total elapsed time: 0:20:48
+2020-03-05 07:20:51 INFO: total: 1.830 GB
+2020-03-05 07:20:51 INFO: total: 15482 wavs
+
+2020-03-06 07:00:03 INFO: start download from firebase.
+2020-03-06 07:09:27 INFO: complete download from firebase.
+2020-03-06 07:09:27 INFO: download elapsed time: 0:09:24
+2020-03-06 07:09:33 INFO: start copy to GD.
+2020-03-06 07:20:00 INFO: complete copy to GD. (by system copy)
+2020-03-06 07:20:00 INFO: copy elapsed time: 0:10:33
+2020-03-06 07:20:00 INFO: total elapsed time: 0:19:57
+2020-03-06 07:20:00 INFO: total: 1.839 GB
+2020-03-06 07:20:00 INFO: total: 15562 wavs
+
+2020-03-06 14:36:10 INFO: start download from firebase.
+2020-03-06 14:44:53 INFO: complete download from firebase.
+2020-03-06 14:44:53 INFO: download elapsed time: 0:08:42
+2020-03-06 14:44:55 INFO: start copy to GD.
+2020-03-06 15:01:30 INFO: complete copy to GD. (by system copy)
+2020-03-06 15:01:30 INFO: copy elapsed time: 0:16:36
+2020-03-06 15:01:30 INFO: total elapsed time: 0:25:19
+2020-03-06 15:01:30 INFO: total: 1.851 GB
+2020-03-06 15:01:30 INFO: total: 15658 wavs
+
+2020-03-07 07:00:02 INFO: start download from firebase.
+2020-03-07 07:09:50 INFO: complete download from firebase.
+2020-03-07 07:09:50 INFO: download elapsed time: 0:09:47
+2020-03-07 07:09:53 INFO: start copy to GD.
+2020-03-07 07:20:16 INFO: complete copy to GD. (by system copy)
+2020-03-07 07:20:16 INFO: copy elapsed time: 0:10:26
+2020-03-07 07:20:16 INFO: total elapsed time: 0:20:14
+2020-03-07 07:20:16 INFO: total: 1.852 GB
+2020-03-07 07:20:16 INFO: total: 15666 wavs
+
+2020-03-08 07:00:03 INFO: start download from firebase.
+2020-03-08 07:09:57 INFO: complete download from firebase.
+2020-03-08 07:09:57 INFO: download elapsed time: 0:09:54
+2020-03-08 07:10:09 INFO: start copy to GD.
+2020-03-08 07:20:36 INFO: complete copy to GD. (by system copy)
+2020-03-08 07:20:36 INFO: copy elapsed time: 0:10:39
+2020-03-08 07:20:36 INFO: total elapsed time: 0:20:33
+2020-03-08 07:20:36 INFO: total: 1.852 GB
+2020-03-08 07:20:36 INFO: total: 15666 wavs
+
+2020-03-09 07:00:01 INFO: start download from firebase.
+2020-03-09 07:08:57 INFO: complete download from firebase.
+2020-03-09 07:08:57 INFO: download elapsed time: 0:08:55
+2020-03-09 07:08:58 INFO: start copy to GD.
+2020-03-09 07:18:39 INFO: complete copy to GD. (by system copy)
+2020-03-09 07:18:39 INFO: copy elapsed time: 0:09:41
+2020-03-09 07:18:39 INFO: total elapsed time: 0:18:37
+2020-03-09 07:18:39 INFO: total: 1.852 GB
+2020-03-09 07:18:39 INFO: total: 15666 wavs
+
+2020-03-10 07:00:01 INFO: start download from firebase.
+2020-03-10 07:09:22 INFO: complete download from firebase.
+2020-03-10 07:09:22 INFO: download elapsed time: 0:09:20
+2020-03-10 07:09:26 INFO: start copy to GD.
+2020-03-10 07:19:24 INFO: complete copy to GD. (by system copy)
+2020-03-10 07:19:24 INFO: copy elapsed time: 0:10:01
+2020-03-10 07:19:24 INFO: total elapsed time: 0:19:22
+2020-03-10 07:19:24 INFO: total: 1.861 GB
+2020-03-10 07:19:24 INFO: total: 15746 wavs
+
+2020-03-11 07:00:02 INFO: start download from firebase.
+2020-03-11 07:09:45 INFO: complete download from firebase.
+2020-03-11 07:09:45 INFO: download elapsed time: 0:09:43
+2020-03-11 07:09:50 INFO: start copy to GD.
+2020-03-11 07:21:21 INFO: complete copy to GD. (by system copy)
+2020-03-11 07:21:21 INFO: copy elapsed time: 0:11:36
+2020-03-11 07:21:21 INFO: total elapsed time: 0:21:19
+2020-03-11 07:21:21 INFO: total: 1.884 GB
+2020-03-11 07:21:21 INFO: total: 15938 wavs
+
+2020-03-12 07:00:02 INFO: start download from firebase.
+2020-03-12 07:09:01 INFO: complete download from firebase.
+2020-03-12 07:09:01 INFO: download elapsed time: 0:08:59
+2020-03-12 07:09:05 INFO: start copy to GD.
+2020-03-12 07:19:06 INFO: complete copy to GD. (by system copy)
+2020-03-12 07:19:06 INFO: copy elapsed time: 0:10:04
+2020-03-12 07:19:06 INFO: total elapsed time: 0:19:04
+2020-03-12 07:19:06 INFO: total: 1.894 GB
+2020-03-12 07:19:06 INFO: total: 16026 wavs
+
+2020-03-13 07:00:02 INFO: start download from firebase.
+2020-03-13 07:09:52 INFO: complete download from firebase.
+2020-03-13 07:09:52 INFO: download elapsed time: 0:09:49
+2020-03-13 07:09:56 INFO: start copy to GD.
+2020-03-13 07:19:47 INFO: complete copy to GD. (by system copy)
+2020-03-13 07:19:47 INFO: copy elapsed time: 0:09:54
+2020-03-13 07:19:47 INFO: total elapsed time: 0:19:44
+2020-03-13 07:19:47 INFO: total: 1.904 GB
+2020-03-13 07:19:47 INFO: total: 16114 wavs
+
+2020-03-14 07:00:02 INFO: start download from firebase.
+2020-03-14 07:08:59 INFO: complete download from firebase.
+2020-03-14 07:08:59 INFO: download elapsed time: 0:08:57
+2020-03-14 07:09:05 INFO: start copy to GD.
+2020-03-14 07:19:42 INFO: complete copy to GD. (by system copy)
+2020-03-14 07:19:42 INFO: copy elapsed time: 0:10:43
+2020-03-14 07:19:42 INFO: total elapsed time: 0:19:40
+2020-03-14 07:19:42 INFO: total: 1.909 GB
+2020-03-14 07:19:42 INFO: total: 16154 wavs
+
+2020-03-15 07:00:04 INFO: start download from firebase.
+2020-03-15 07:09:17 INFO: complete download from firebase.
+2020-03-15 07:09:17 INFO: download elapsed time: 0:09:12
+2020-03-15 07:09:21 INFO: start copy to GD.
+2020-03-15 07:19:51 INFO: complete copy to GD. (by system copy)
+2020-03-15 07:19:51 INFO: copy elapsed time: 0:10:33
+2020-03-15 07:19:51 INFO: total elapsed time: 0:19:46
+2020-03-15 07:19:51 INFO: total: 1.909 GB
+2020-03-15 07:19:51 INFO: total: 16154 wavs
+
+2020-03-16 07:00:02 INFO: start download from firebase.
+2020-03-16 07:08:46 INFO: complete download from firebase.
+2020-03-16 07:08:46 INFO: download elapsed time: 0:08:44
+2020-03-16 07:08:51 INFO: start copy to GD.
+2020-03-16 07:18:55 INFO: complete copy to GD. (by system copy)
+2020-03-16 07:18:55 INFO: copy elapsed time: 0:10:09
+2020-03-16 07:18:55 INFO: total elapsed time: 0:18:53
+2020-03-16 07:18:55 INFO: total: 1.909 GB
+2020-03-16 07:18:55 INFO: total: 16154 wavs
+
+2020-03-17 07:00:02 INFO: start download from firebase.
+2020-03-17 07:09:38 INFO: complete download from firebase.
+2020-03-17 07:09:38 INFO: download elapsed time: 0:09:36
+2020-03-17 07:09:44 INFO: start copy to GD.
+2020-03-17 09:09:57 INFO: complete copy to GD. (by system copy)
+2020-03-17 09:09:57 INFO: copy elapsed time: 2:00:18
+2020-03-17 09:09:57 INFO: total elapsed time: 2:09:54
+2020-03-17 09:09:57 INFO: total: 1.917 GB
+2020-03-17 09:09:57 INFO: total: 16218 wavs
+
+2020-03-18 07:00:03 INFO: start download from firebase.
+2020-03-18 07:11:16 INFO: complete download from firebase.
+2020-03-18 07:11:16 INFO: download elapsed time: 0:11:13
+2020-03-18 07:11:25 INFO: start copy to GD.
+2020-03-18 07:23:05 INFO: complete copy to GD. (by system copy)
+2020-03-18 07:23:05 INFO: copy elapsed time: 0:11:48
+2020-03-18 07:23:05 INFO: total elapsed time: 0:23:02
+2020-03-18 07:23:05 INFO: total: 1.927 GB
+2020-03-18 07:23:05 INFO: total: 16308 wavs
+
+2020-03-19 07:00:02 INFO: start download from firebase.
+2020-03-19 07:08:58 INFO: complete download from firebase.
+2020-03-19 07:08:58 INFO: download elapsed time: 0:08:55
+2020-03-19 07:09:02 INFO: start copy to GD.
+2020-03-19 07:19:33 INFO: complete copy to GD. (by system copy)
+2020-03-19 07:19:33 INFO: copy elapsed time: 0:10:34
+2020-03-19 07:19:33 INFO: total elapsed time: 0:19:30
+2020-03-19 07:19:33 INFO: total: 1.940 GB
+2020-03-19 07:19:33 INFO: total: 16412 wavs
+
+2020-03-20 10:28:07 INFO: start download from firebase.
+2020-03-20 10:37:38 INFO: complete download from firebase.
+2020-03-20 10:37:38 INFO: download elapsed time: 0:09:31
+2020-03-20 10:37:45 INFO: start copy to GD.
+2020-03-20 10:49:00 INFO: complete copy to GD. (by system copy)
+2020-03-20 10:49:00 INFO: copy elapsed time: 0:11:22
+2020-03-20 10:49:00 INFO: total elapsed time: 0:20:53
+2020-03-20 10:49:00 INFO: total: 1.943 GB
+2020-03-20 10:49:00 INFO: total: 16444 wavs
+
+2020-03-21 07:00:01 INFO: start download from firebase.
+2020-03-21 07:09:59 INFO: complete download from firebase.
+2020-03-21 07:09:59 INFO: download elapsed time: 0:09:57
+2020-03-21 07:10:05 INFO: start copy to GD.
+2020-03-21 07:20:43 INFO: complete copy to GD. (by system copy)
+2020-03-21 07:20:43 INFO: copy elapsed time: 0:10:43
+2020-03-21 07:20:43 INFO: total elapsed time: 0:20:41
+2020-03-21 07:20:43 INFO: total: 1.953 GB
+2020-03-21 07:20:43 INFO: total: 16524 wavs
+
+2020-03-22 07:00:04 INFO: start download from firebase.
+2020-03-22 07:09:01 INFO: complete download from firebase.
+2020-03-22 07:09:01 INFO: download elapsed time: 0:08:56
+2020-03-22 07:09:05 INFO: start copy to GD.
+2020-03-22 07:20:00 INFO: complete copy to GD. (by system copy)
+2020-03-22 07:20:00 INFO: copy elapsed time: 0:10:59
+2020-03-22 07:20:00 INFO: total elapsed time: 0:19:55
+2020-03-22 07:20:00 INFO: total: 1.953 GB
+2020-03-22 07:20:00 INFO: total: 16524 wavs
+
+2020-03-23 07:00:01 INFO: start download from firebase.
+2020-03-23 07:08:31 INFO: complete download from firebase.
+2020-03-23 07:08:31 INFO: download elapsed time: 0:08:30
+2020-03-23 07:08:41 INFO: start copy to GD.
+2020-03-23 07:19:49 INFO: complete copy to GD. (by system copy)
+2020-03-23 07:19:49 INFO: copy elapsed time: 0:11:17
+2020-03-23 07:19:49 INFO: total elapsed time: 0:19:47
+2020-03-23 07:19:49 INFO: total: 1.955 GB
+2020-03-23 07:19:49 INFO: total: 16540 wavs
+
+2020-03-24 07:00:02 INFO: start download from firebase.
+2020-03-24 07:10:36 INFO: complete download from firebase.
+2020-03-24 07:10:36 INFO: download elapsed time: 0:10:34
+2020-03-24 07:10:48 INFO: start copy to GD.
+2020-03-24 07:21:59 INFO: complete copy to GD. (by system copy)
+2020-03-24 07:21:59 INFO: copy elapsed time: 0:11:23
+2020-03-24 07:21:59 INFO: total elapsed time: 0:21:57
+2020-03-24 07:21:59 INFO: total: 1.968 GB
+2020-03-24 07:21:59 INFO: total: 16652 wavs
+
+2020-03-25 07:00:02 INFO: start download from firebase.
+2020-03-25 07:09:46 INFO: complete download from firebase.
+2020-03-25 07:09:46 INFO: download elapsed time: 0:09:43
+2020-03-25 07:09:54 INFO: start copy to GD.
+2020-03-25 07:21:15 INFO: complete copy to GD. (by system copy)
+2020-03-25 07:21:15 INFO: copy elapsed time: 0:11:28
+2020-03-25 07:21:15 INFO: total elapsed time: 0:21:12
+2020-03-25 07:21:15 INFO: total: 1.987 GB
+2020-03-25 07:21:15 INFO: total: 16812 wavs
+
+2020-03-26 07:00:01 INFO: start download from firebase.
+2020-03-26 07:09:27 INFO: complete download from firebase.
+2020-03-26 07:09:27 INFO: download elapsed time: 0:09:26
+2020-03-26 07:09:29 INFO: start copy to GD.
+2020-03-26 07:20:09 INFO: complete copy to GD. (by system copy)
+2020-03-26 07:20:09 INFO: copy elapsed time: 0:10:41
+2020-03-26 07:20:09 INFO: total elapsed time: 0:20:07
+2020-03-26 07:20:09 INFO: total: 1.996 GB
+2020-03-26 07:20:09 INFO: total: 16892 wavs
+
+2020-03-27 07:00:01 INFO: start download from firebase.
+2020-03-27 07:10:33 INFO: complete download from firebase.
+2020-03-27 07:10:33 INFO: download elapsed time: 0:10:31
+2020-03-27 07:10:37 INFO: start copy to GD.
+2020-03-27 07:22:51 INFO: complete copy to GD. (by system copy)
+2020-03-27 07:22:51 INFO: copy elapsed time: 0:12:17
+2020-03-27 07:22:51 INFO: total elapsed time: 0:22:49
+2020-03-27 07:22:51 INFO: total: 2.005 GB
+2020-03-27 07:22:51 INFO: total: 16964 wavs
+
+2020-03-28 07:00:04 INFO: start download from firebase.
+2020-03-28 07:09:25 INFO: complete download from firebase.
+2020-03-28 07:09:25 INFO: download elapsed time: 0:09:21
+2020-03-28 07:09:30 INFO: start copy to GD.
+2020-03-28 07:21:31 INFO: complete copy to GD. (by system copy)
+2020-03-28 07:21:31 INFO: copy elapsed time: 0:12:06
+2020-03-28 07:21:31 INFO: total elapsed time: 0:21:27
+2020-03-28 07:21:31 INFO: total: 2.011 GB
+2020-03-28 07:21:31 INFO: total: 17020 wavs
+
+2020-03-29 07:00:04 INFO: start download from firebase.
+2020-03-29 07:09:02 INFO: complete download from firebase.
+2020-03-29 07:09:02 INFO: download elapsed time: 0:08:58
+2020-03-29 07:09:06 INFO: start copy to GD.
+2020-03-29 07:21:28 INFO: complete copy to GD. (by system copy)
+2020-03-29 07:21:28 INFO: copy elapsed time: 0:12:25
+2020-03-29 07:21:28 INFO: total elapsed time: 0:21:24
+2020-03-29 07:21:28 INFO: total: 2.011 GB
+2020-03-29 07:21:28 INFO: total: 17020 wavs
+
+2020-03-30 07:00:01 INFO: start download from firebase.
+2020-03-30 07:09:30 INFO: complete download from firebase.
+2020-03-30 07:09:30 INFO: download elapsed time: 0:09:28
+2020-03-30 07:09:37 INFO: start copy to GD.
+2020-03-30 07:21:17 INFO: complete copy to GD. (by system copy)
+2020-03-30 07:21:17 INFO: copy elapsed time: 0:11:47
+2020-03-30 07:21:17 INFO: total elapsed time: 0:21:15
+2020-03-30 07:21:17 INFO: total: 2.011 GB
+2020-03-30 07:21:17 INFO: total: 17020 wavs
+
+2020-03-31 07:00:01 INFO: start download from firebase.
+2020-03-31 07:09:03 INFO: complete download from firebase.
+2020-03-31 07:09:03 INFO: download elapsed time: 0:09:01
+2020-03-31 07:09:11 INFO: start copy to GD.
+2020-03-31 07:21:35 INFO: complete copy to GD. (by system copy)
+2020-03-31 07:21:35 INFO: copy elapsed time: 0:12:32
+2020-03-31 07:21:35 INFO: total elapsed time: 0:21:34
+2020-03-31 07:21:35 INFO: total: 2.024 GB
+2020-03-31 07:21:35 INFO: total: 17124 wavs
+
+2020-04-01 07:00:03 INFO: start download from firebase.
+2020-04-01 07:09:35 INFO: complete download from firebase.
+2020-04-01 07:09:35 INFO: download elapsed time: 0:09:32
+2020-04-01 07:09:42 INFO: start copy to GD.
+2020-04-01 07:22:36 INFO: complete copy to GD. (by system copy)
+2020-04-01 07:22:36 INFO: copy elapsed time: 0:13:01
+2020-04-01 07:22:36 INFO: total elapsed time: 0:22:33
+2020-04-01 07:22:36 INFO: total: 2.030 GB
+2020-04-01 07:22:36 INFO: total: 17180 wavs
+
+2020-04-02 07:00:01 INFO: start download from firebase.
+2020-04-02 07:08:51 INFO: complete download from firebase.
+2020-04-02 07:08:51 INFO: download elapsed time: 0:08:50
+2020-04-02 07:09:01 INFO: start copy to GD.
+2020-04-02 07:21:09 INFO: complete copy to GD. (by system copy)
+2020-04-02 07:21:09 INFO: copy elapsed time: 0:12:17
+2020-04-02 07:21:09 INFO: total elapsed time: 0:21:08
+2020-04-02 07:21:09 INFO: total: 2.038 GB
+2020-04-02 07:21:09 INFO: total: 17244 wavs
+
+2020-04-03 07:00:02 INFO: start download from firebase.
+2020-04-03 07:08:48 INFO: complete download from firebase.
+2020-04-03 07:08:48 INFO: download elapsed time: 0:08:46
+2020-04-03 07:08:57 INFO: start copy to GD.
+2020-04-03 07:21:30 INFO: complete copy to GD. (by system copy)
+2020-04-03 07:21:30 INFO: copy elapsed time: 0:12:41
+2020-04-03 07:21:30 INFO: total elapsed time: 0:21:28
+2020-04-03 07:21:30 INFO: total: 2.038 GB
+2020-04-03 07:21:30 INFO: total: 17244 wavs
+
+2020-04-04 07:00:05 INFO: start download from firebase.
+2020-04-04 07:09:23 INFO: complete download from firebase.
+2020-04-04 07:09:23 INFO: download elapsed time: 0:09:18
+2020-04-04 07:09:28 INFO: start copy to GD.
+2020-04-04 07:21:56 INFO: complete copy to GD. (by system copy)
+2020-04-04 07:21:56 INFO: copy elapsed time: 0:12:32
+2020-04-04 07:21:56 INFO: total elapsed time: 0:21:50
+2020-04-04 07:21:56 INFO: total: 2.038 GB
+2020-04-04 07:21:56 INFO: total: 17244 wavs
+
+2020-04-05 07:00:02 INFO: start download from firebase.
+2020-04-05 07:09:07 INFO: complete download from firebase.
+2020-04-05 07:09:07 INFO: download elapsed time: 0:09:05
+2020-04-05 07:09:12 INFO: start copy to GD.
+2020-04-05 07:21:55 INFO: complete copy to GD. (by system copy)
+2020-04-05 07:21:55 INFO: copy elapsed time: 0:12:48
+2020-04-05 07:21:55 INFO: total elapsed time: 0:21:53
+2020-04-05 07:21:55 INFO: total: 2.040 GB
+2020-04-05 07:21:55 INFO: total: 17260 wavs
+
+2020-04-06 07:00:03 INFO: start download from firebase.
+2020-04-06 07:08:39 INFO: complete download from firebase.
+2020-04-06 07:08:39 INFO: download elapsed time: 0:08:36
+2020-04-06 07:08:49 INFO: start copy to GD.
+2020-04-06 07:21:15 INFO: complete copy to GD. (by system copy)
+2020-04-06 07:21:15 INFO: copy elapsed time: 0:12:35
+2020-04-06 07:21:15 INFO: total elapsed time: 0:21:12
+2020-04-06 07:21:15 INFO: total: 2.040 GB
+2020-04-06 07:21:15 INFO: total: 17260 wavs
+
+2020-04-07 07:00:01 INFO: start download from firebase.
+2020-04-07 07:08:58 INFO: complete download from firebase.
+2020-04-07 07:08:58 INFO: download elapsed time: 0:08:56
+2020-04-07 07:09:02 INFO: start copy to GD.
+2020-04-07 07:21:02 INFO: complete copy to GD. (by system copy)
+2020-04-07 07:21:02 INFO: copy elapsed time: 0:12:03
+2020-04-07 07:21:02 INFO: total elapsed time: 0:21:00
+2020-04-07 07:21:02 INFO: total: 2.052 GB
+2020-04-07 07:21:02 INFO: total: 17364 wavs
+
+2020-04-08 07:00:01 INFO: start download from firebase.
+2020-04-08 07:08:48 INFO: complete download from firebase.
+2020-04-08 07:08:48 INFO: download elapsed time: 0:08:47
+2020-04-08 07:08:56 INFO: start copy to GD.
+2020-04-08 07:21:03 INFO: complete copy to GD. (by system copy)
+2020-04-08 07:21:03 INFO: copy elapsed time: 0:12:14
+2020-04-08 07:21:03 INFO: total elapsed time: 0:21:01
+2020-04-08 07:21:03 INFO: total: 2.076 GB
+2020-04-08 07:21:03 INFO: total: 17564 wavs
+
+2020-04-09 07:00:02 INFO: start download from firebase.
+2020-04-09 07:09:10 INFO: complete download from firebase.
+2020-04-09 07:09:10 INFO: download elapsed time: 0:09:08
+2020-04-09 07:09:16 INFO: start copy to GD.
+2020-04-09 07:22:19 INFO: complete copy to GD. (by system copy)
+2020-04-09 07:22:19 INFO: copy elapsed time: 0:13:09
+2020-04-09 07:22:19 INFO: total elapsed time: 0:22:17
+2020-04-09 07:22:19 INFO: total: 2.082 GB
+2020-04-09 07:22:19 INFO: total: 17620 wavs
+
+2020-04-10 07:00:02 INFO: start download from firebase.
+2020-04-10 07:09:23 INFO: complete download from firebase.
+2020-04-10 07:09:23 INFO: download elapsed time: 0:09:20
+2020-04-10 07:09:27 INFO: start copy to GD.
+2020-04-10 07:20:26 INFO: complete copy to GD. (by system copy)
+2020-04-10 07:20:26 INFO: copy elapsed time: 0:11:03
+2020-04-10 07:20:26 INFO: total elapsed time: 0:20:23
+2020-04-10 07:20:26 INFO: total: 2.094 GB
+2020-04-10 07:20:26 INFO: total: 17724 wavs
+
+2020-04-11 07:00:01 INFO: start download from firebase.
+2020-04-11 07:09:18 INFO: complete download from firebase.
+2020-04-11 07:09:18 INFO: download elapsed time: 0:09:16
+2020-04-11 07:09:23 INFO: start copy to GD.
+2020-04-11 07:21:20 INFO: complete copy to GD. (by system copy)
+2020-04-11 07:21:20 INFO: copy elapsed time: 0:12:02
+2020-04-11 07:21:20 INFO: total elapsed time: 0:21:18
+2020-04-11 07:21:20 INFO: total: 2.111 GB
+2020-04-11 07:21:20 INFO: total: 17868 wavs
+
+2020-04-12 07:00:03 INFO: start download from firebase.
+2020-04-12 07:08:54 INFO: complete download from firebase.
+2020-04-12 07:08:54 INFO: download elapsed time: 0:08:51
+2020-04-12 07:09:03 INFO: start copy to GD.
+2020-04-12 07:21:10 INFO: complete copy to GD. (by system copy)
+2020-04-12 07:21:10 INFO: copy elapsed time: 0:12:15
+2020-04-12 07:21:10 INFO: total elapsed time: 0:21:06
+2020-04-12 07:21:10 INFO: total: 2.111 GB
+2020-04-12 07:21:10 INFO: total: 17868 wavs
+
+2020-04-13 07:00:02 INFO: start download from firebase.
+2020-04-13 07:08:46 INFO: complete download from firebase.
+2020-04-13 07:08:46 INFO: download elapsed time: 0:08:44
+2020-04-13 07:08:55 INFO: start copy to GD.
+2020-04-13 07:21:01 INFO: complete copy to GD. (by system copy)
+2020-04-13 07:21:01 INFO: copy elapsed time: 0:12:14
+2020-04-13 07:21:01 INFO: total elapsed time: 0:20:59
+2020-04-13 07:21:01 INFO: total: 2.115 GB
+2020-04-13 07:21:01 INFO: total: 17900 wavs
+
+2020-04-14 07:00:01 INFO: start download from firebase.
+2020-04-14 07:09:04 INFO: complete download from firebase.
+2020-04-14 07:09:04 INFO: download elapsed time: 0:09:02
+2020-04-14 07:09:09 INFO: start copy to GD.
+2020-04-14 07:21:22 INFO: complete copy to GD. (by system copy)
+2020-04-14 07:21:22 INFO: copy elapsed time: 0:12:18
+2020-04-14 07:21:22 INFO: total elapsed time: 0:21:20
+2020-04-14 07:21:22 INFO: total: 2.130 GB
+2020-04-14 07:21:22 INFO: total: 18028 wavs
+
+2020-04-15 07:00:02 INFO: start download from firebase.
+2020-04-15 07:10:08 INFO: complete download from firebase.
+2020-04-15 07:10:08 INFO: download elapsed time: 0:10:06
+2020-04-15 07:10:13 INFO: start copy to GD.
+2020-04-15 07:23:55 INFO: complete copy to GD. (by system copy)
+2020-04-15 07:23:55 INFO: copy elapsed time: 0:13:46
+2020-04-15 07:23:55 INFO: total elapsed time: 0:23:52
+2020-04-15 07:23:55 INFO: total: 2.138 GB
+2020-04-15 07:23:55 INFO: total: 18098 wavs
+
+2020-04-16 07:00:03 INFO: start download from firebase.
+2020-04-16 07:09:12 INFO: complete download from firebase.
+2020-04-16 07:09:12 INFO: download elapsed time: 0:09:09
+2020-04-16 07:09:16 INFO: start copy to GD.
+2020-04-16 07:21:24 INFO: complete copy to GD. (by system copy)
+2020-04-16 07:21:24 INFO: copy elapsed time: 0:12:11
+2020-04-16 07:21:24 INFO: total elapsed time: 0:21:20
+2020-04-16 07:21:24 INFO: total: 2.146 GB
+2020-04-16 07:21:24 INFO: total: 18162 wavs
+
+2020-04-17 07:00:01 INFO: start download from firebase.
+2020-04-17 07:09:22 INFO: complete download from firebase.
+2020-04-17 07:09:22 INFO: download elapsed time: 0:09:20
+2020-04-17 07:09:25 INFO: start copy to GD.
+2020-04-17 07:21:17 INFO: complete copy to GD. (by system copy)
+2020-04-17 07:21:17 INFO: copy elapsed time: 0:11:55
+2020-04-17 07:21:17 INFO: total elapsed time: 0:21:15
+2020-04-17 07:21:17 INFO: total: 2.163 GB
+2020-04-17 07:21:17 INFO: total: 18306 wavs
+
+2020-04-18 07:00:02 INFO: start download from firebase.
+2020-04-18 07:08:58 INFO: complete download from firebase.
+2020-04-18 07:08:58 INFO: download elapsed time: 0:08:56
+2020-04-18 07:09:04 INFO: start copy to GD.
+2020-04-18 07:21:42 INFO: complete copy to GD. (by system copy)
+2020-04-18 07:21:42 INFO: copy elapsed time: 0:12:43
+2020-04-18 07:21:42 INFO: total elapsed time: 0:21:39
+2020-04-18 07:21:42 INFO: total: 2.172 GB
+2020-04-18 07:21:42 INFO: total: 18386 wavs
+
+2020-04-19 07:00:02 INFO: start download from firebase.
+2020-04-19 07:09:10 INFO: complete download from firebase.
+2020-04-19 07:09:10 INFO: download elapsed time: 0:09:08
+2020-04-19 07:09:16 INFO: start copy to GD.
+2020-04-19 07:22:33 INFO: complete copy to GD. (by system copy)
+2020-04-19 07:22:33 INFO: copy elapsed time: 0:13:23
+2020-04-19 07:22:33 INFO: total elapsed time: 0:22:31
+2020-04-19 07:22:33 INFO: total: 2.172 GB
+2020-04-19 07:22:33 INFO: total: 18386 wavs
+
+2020-04-20 07:00:02 INFO: start download from firebase.
+2020-04-20 07:11:44 INFO: complete download from firebase.
+2020-04-20 07:11:44 INFO: download elapsed time: 0:11:42
+2020-04-20 07:12:01 INFO: start copy to GD.
+2020-04-20 07:24:08 INFO: complete copy to GD. (by system copy)
+2020-04-20 07:24:08 INFO: copy elapsed time: 0:12:24
+2020-04-20 07:24:08 INFO: total elapsed time: 0:24:06
+2020-04-20 07:24:08 INFO: total: 2.172 GB
+2020-04-20 07:24:08 INFO: total: 18386 wavs
+
+2020-04-21 07:00:01 INFO: start download from firebase.
+2020-04-21 07:09:25 INFO: complete download from firebase.
+2020-04-21 07:09:25 INFO: download elapsed time: 0:09:23
+2020-04-21 07:09:30 INFO: start copy to GD.
+2020-04-21 07:22:22 INFO: complete copy to GD. (by system copy)
+2020-04-21 07:22:22 INFO: copy elapsed time: 0:12:57
+2020-04-21 07:22:22 INFO: total elapsed time: 0:22:20
+2020-04-21 07:22:22 INFO: total: 2.183 GB
+2020-04-21 07:22:22 INFO: total: 18482 wavs
+
+2020-04-22 07:00:02 INFO: start download from firebase.
+2020-04-22 07:08:46 INFO: complete download from firebase.
+2020-04-22 07:08:46 INFO: download elapsed time: 0:08:44
+2020-04-22 07:08:54 INFO: start copy to GD.
+2020-04-22 07:21:20 INFO: complete copy to GD. (by system copy)
+2020-04-22 07:21:20 INFO: copy elapsed time: 0:12:34
+2020-04-22 07:21:20 INFO: total elapsed time: 0:21:18
+2020-04-22 07:21:20 INFO: total: 2.199 GB
+2020-04-22 07:21:20 INFO: total: 18618 wavs
+
+2020-04-23 07:00:02 INFO: start download from firebase.
+2020-04-23 07:11:17 INFO: complete download from firebase.
+2020-04-23 07:11:17 INFO: download elapsed time: 0:11:14
+2020-04-23 07:11:24 INFO: start copy to GD.
+2020-04-23 07:27:44 INFO: complete copy to GD. (by system copy)
+2020-04-23 07:27:44 INFO: copy elapsed time: 0:16:27
+2020-04-23 07:27:44 INFO: total elapsed time: 0:27:42
+2020-04-23 07:27:44 INFO: total: 2.210 GB
+2020-04-23 07:27:44 INFO: total: 18714 wavs
+
+2020-04-24 07:00:02 INFO: start download from firebase.
+2020-04-24 07:10:06 INFO: complete download from firebase.
+2020-04-24 07:10:06 INFO: download elapsed time: 0:10:04
+2020-04-24 07:10:11 INFO: start copy to GD.
+2020-04-24 07:22:44 INFO: complete copy to GD. (by system copy)
+2020-04-24 07:22:44 INFO: copy elapsed time: 0:12:37
+2020-04-24 07:22:44 INFO: total elapsed time: 0:22:41
+2020-04-24 07:22:44 INFO: total: 2.217 GB
+2020-04-24 07:22:44 INFO: total: 18770 wavs
+
+2020-04-25 07:00:01 INFO: start download from firebase.
+2020-04-25 07:10:03 INFO: complete download from firebase.
+2020-04-25 07:10:03 INFO: download elapsed time: 0:10:02
+2020-04-25 07:10:06 INFO: start copy to GD.
+2020-04-25 07:21:37 INFO: complete copy to GD. (by system copy)
+2020-04-25 07:21:37 INFO: copy elapsed time: 0:11:34
+2020-04-25 07:21:37 INFO: total elapsed time: 0:21:36
+2020-04-25 07:21:37 INFO: total: 2.219 GB
+2020-04-25 07:21:37 INFO: total: 18794 wavs
+
+2020-04-26 07:00:01 INFO: start download from firebase.
+2020-04-26 07:09:55 INFO: complete download from firebase.
+2020-04-26 07:09:55 INFO: download elapsed time: 0:09:53
+2020-04-26 07:10:09 INFO: start copy to GD.
+2020-04-26 07:23:03 INFO: complete copy to GD. (by system copy)
+2020-04-26 07:23:03 INFO: copy elapsed time: 0:13:07
+2020-04-26 07:23:03 INFO: total elapsed time: 0:23:01
+2020-04-26 07:23:03 INFO: total: 2.219 GB
+2020-04-26 07:23:03 INFO: total: 18794 wavs
+
+2020-04-27 07:00:01 INFO: start download from firebase.
+2020-04-27 07:10:20 INFO: complete download from firebase.
+2020-04-27 07:10:20 INFO: download elapsed time: 0:10:18
+2020-04-27 07:10:26 INFO: start copy to GD.
+2020-04-27 07:23:53 INFO: complete copy to GD. (by system copy)
+2020-04-27 07:23:53 INFO: copy elapsed time: 0:13:33
+2020-04-27 07:23:53 INFO: total elapsed time: 0:23:51
+2020-04-27 07:23:53 INFO: total: 2.219 GB
+2020-04-27 07:23:53 INFO: total: 18794 wavs
+
+2020-04-28 07:00:01 INFO: start download from firebase.
+2020-04-28 07:10:03 INFO: complete download from firebase.
+2020-04-28 07:10:03 INFO: download elapsed time: 0:10:02
+2020-04-28 07:10:12 INFO: start copy to GD.
+2020-04-28 07:22:47 INFO: complete copy to GD. (by system copy)
+2020-04-28 07:22:47 INFO: copy elapsed time: 0:12:43
+2020-04-28 07:22:47 INFO: total elapsed time: 0:22:46
+2020-04-28 07:22:47 INFO: total: 2.227 GB
+2020-04-28 07:22:47 INFO: total: 18858 wavs
+
+2020-04-29 07:00:01 INFO: start download from firebase.
+2020-04-29 07:10:38 INFO: complete download from firebase.
+2020-04-29 07:10:38 INFO: download elapsed time: 0:10:36
+2020-04-29 07:10:46 INFO: start copy to GD.
+2020-04-29 07:23:02 INFO: complete copy to GD. (by system copy)
+2020-04-29 07:23:02 INFO: copy elapsed time: 0:12:24
+2020-04-29 07:23:02 INFO: total elapsed time: 0:23:01
+2020-04-29 07:23:02 INFO: total: 2.243 GB
+2020-04-29 07:23:02 INFO: total: 18996 wavs
+
+2020-04-30 07:00:01 INFO: start download from firebase.
+2020-04-30 07:10:33 INFO: complete download from firebase.
+2020-04-30 07:10:33 INFO: download elapsed time: 0:10:31
+2020-04-30 07:10:42 INFO: start copy to GD.
+2020-04-30 07:22:55 INFO: complete copy to GD. (by system copy)
+2020-04-30 07:22:55 INFO: copy elapsed time: 0:12:21
+2020-04-30 07:22:55 INFO: total elapsed time: 0:22:53
+2020-04-30 07:22:55 INFO: total: 2.249 GB
+2020-04-30 07:22:55 INFO: total: 19044 wavs
+
+2020-05-01 07:00:02 INFO: start download from firebase.
+2020-05-01 07:09:45 INFO: complete download from firebase.
+2020-05-01 07:09:45 INFO: download elapsed time: 0:09:43
+2020-05-01 07:09:52 INFO: start copy to GD.
+2020-05-01 07:22:37 INFO: complete copy to GD. (by system copy)
+2020-05-01 07:22:37 INFO: copy elapsed time: 0:12:52
+2020-05-01 07:22:37 INFO: total elapsed time: 0:22:35
+2020-05-01 07:22:37 INFO: total: 2.258 GB
+2020-05-01 07:22:37 INFO: total: 19124 wavs
+
+2020-05-02 07:00:02 INFO: start download from firebase.
+2020-05-02 07:09:47 INFO: complete download from firebase.
+2020-05-02 07:09:47 INFO: download elapsed time: 0:09:45
+2020-05-02 07:09:59 INFO: start copy to GD.
+2020-05-02 07:23:39 INFO: complete copy to GD. (by system copy)
+2020-05-02 07:23:39 INFO: copy elapsed time: 0:13:51
+2020-05-02 07:23:39 INFO: total elapsed time: 0:23:37
+2020-05-02 07:23:39 INFO: total: 2.262 GB
+2020-05-02 07:23:39 INFO: total: 19156 wavs
+
+2020-05-03 07:00:02 INFO: start download from firebase.
+2020-05-03 07:10:01 INFO: complete download from firebase.
+2020-05-03 07:10:01 INFO: download elapsed time: 0:09:58
+2020-05-03 07:10:13 INFO: start copy to GD.
+2020-05-03 07:23:43 INFO: complete copy to GD. (by system copy)
+2020-05-03 07:23:43 INFO: copy elapsed time: 0:13:42
+2020-05-03 07:23:43 INFO: total elapsed time: 0:23:41
+2020-05-03 07:23:43 INFO: total: 2.269 GB
+2020-05-03 07:23:43 INFO: total: 19220 wavs
+
+2020-05-04 07:00:02 INFO: start download from firebase.
+2020-05-04 07:09:15 INFO: complete download from firebase.
+2020-05-04 07:09:15 INFO: download elapsed time: 0:09:12
+2020-05-04 07:09:23 INFO: start copy to GD.
+2020-05-04 07:24:05 INFO: complete copy to GD. (by system copy)
+2020-05-04 07:24:05 INFO: copy elapsed time: 0:14:50
+2020-05-04 07:24:05 INFO: total elapsed time: 0:24:03
+2020-05-04 07:24:05 INFO: total: 2.269 GB
+2020-05-04 07:24:05 INFO: total: 19220 wavs
+
+2020-05-05 07:00:02 INFO: start download from firebase.
+2020-05-05 07:09:36 INFO: complete download from firebase.
+2020-05-05 07:09:36 INFO: download elapsed time: 0:09:34
+2020-05-05 07:10:04 INFO: start copy to GD.
+2020-05-05 07:23:36 INFO: complete copy to GD. (by system copy)
+2020-05-05 07:23:36 INFO: copy elapsed time: 0:14:00
+2020-05-05 07:23:36 INFO: total elapsed time: 0:23:34
+2020-05-05 07:23:36 INFO: total: 2.279 GB
+2020-05-05 07:23:36 INFO: total: 19300 wavs
+
+2020-05-06 07:00:01 INFO: start download from firebase.
+2020-05-06 07:10:00 INFO: complete download from firebase.
+2020-05-06 07:10:00 INFO: download elapsed time: 0:09:58
+2020-05-06 07:10:11 INFO: start copy to GD.
+2020-05-06 07:24:27 INFO: complete copy to GD. (by system copy)
+2020-05-06 07:24:27 INFO: copy elapsed time: 0:14:27
+2020-05-06 07:24:27 INFO: total elapsed time: 0:24:25
+2020-05-06 07:24:27 INFO: total: 2.287 GB
+2020-05-06 07:24:27 INFO: total: 19372 wavs
+
+2020-05-07 07:00:02 INFO: start download from firebase.
+2020-05-07 07:10:49 INFO: complete download from firebase.
+2020-05-07 07:10:49 INFO: download elapsed time: 0:10:47
+2020-05-07 07:11:00 INFO: start copy to GD.
+2020-05-07 07:25:19 INFO: complete copy to GD. (by system copy)
+2020-05-07 07:25:19 INFO: copy elapsed time: 0:14:30
+2020-05-07 07:25:19 INFO: total elapsed time: 0:25:17
+2020-05-07 07:25:19 INFO: total: 2.297 GB
+2020-05-07 07:25:19 INFO: total: 19460 wavs
+
+2020-05-08 07:00:01 INFO: start download from firebase.
+2020-05-08 07:08:36 INFO: complete download from firebase.
+2020-05-08 07:08:36 INFO: download elapsed time: 0:08:34
+2020-05-08 07:08:41 INFO: start copy to GD.
+2020-05-08 07:22:43 INFO: complete copy to GD. (by system copy)
+2020-05-08 07:22:43 INFO: copy elapsed time: 0:14:06
+2020-05-08 07:22:43 INFO: total elapsed time: 0:22:41
+2020-05-08 07:22:43 INFO: total: 2.306 GB
+2020-05-08 07:22:43 INFO: total: 19532 wavs
+
+2020-05-09 07:00:04 INFO: start download from firebase.
+2020-05-09 07:10:19 INFO: complete download from firebase.
+2020-05-09 07:10:19 INFO: download elapsed time: 0:10:15
+2020-05-09 07:10:27 INFO: start copy to GD.
+2020-05-09 07:23:54 INFO: complete copy to GD. (by system copy)
+2020-05-09 07:23:54 INFO: copy elapsed time: 0:13:34
+2020-05-09 07:23:54 INFO: total elapsed time: 0:23:50
+2020-05-09 07:23:54 INFO: total: 2.315 GB
+2020-05-09 07:23:54 INFO: total: 19612 wavs
+
+2020-05-10 07:00:01 INFO: start download from firebase.
+2020-05-10 07:09:00 INFO: complete download from firebase.
+2020-05-10 07:09:00 INFO: download elapsed time: 0:08:59
+2020-05-10 07:09:12 INFO: start copy to GD.
+2020-05-10 07:23:41 INFO: complete copy to GD. (by system copy)
+2020-05-10 07:23:41 INFO: copy elapsed time: 0:14:40
+2020-05-10 07:23:41 INFO: total elapsed time: 0:23:39
+2020-05-10 07:23:41 INFO: total: 2.315 GB
+2020-05-10 07:23:41 INFO: total: 19612 wavs
+
+2020-05-11 07:00:01 INFO: start download from firebase.
+2020-05-11 07:10:00 INFO: complete download from firebase.
+2020-05-11 07:10:00 INFO: download elapsed time: 0:09:58
+2020-05-11 07:10:11 INFO: start copy to GD.
+2020-05-11 07:24:22 INFO: complete copy to GD. (by system copy)
+2020-05-11 07:24:22 INFO: copy elapsed time: 0:14:22
+2020-05-11 07:24:22 INFO: total elapsed time: 0:24:21
+2020-05-11 07:24:22 INFO: total: 2.315 GB
+2020-05-11 07:24:22 INFO: total: 19612 wavs
+
+2020-05-12 07:00:01 INFO: start download from firebase.
+2020-05-12 07:11:16 INFO: complete download from firebase.
+2020-05-12 07:11:16 INFO: download elapsed time: 0:11:14
+2020-05-12 07:11:31 INFO: start copy to GD.
+2020-05-12 07:26:09 INFO: complete copy to GD. (by system copy)
+2020-05-12 07:26:09 INFO: copy elapsed time: 0:14:52
+2020-05-12 07:26:09 INFO: total elapsed time: 0:26:07
+2020-05-12 07:26:09 INFO: total: 2.321 GB
+2020-05-12 07:26:09 INFO: total: 19660 wavs
+
+2020-05-13 07:00:01 INFO: start download from firebase.
+2020-05-13 07:09:29 INFO: complete download from firebase.
+2020-05-13 07:09:29 INFO: download elapsed time: 0:09:27
+2020-05-13 07:09:40 INFO: start copy to GD.
+2020-05-13 07:26:00 INFO: complete copy to GD. (by system copy)
+2020-05-13 07:26:00 INFO: copy elapsed time: 0:16:31
+2020-05-13 07:26:00 INFO: total elapsed time: 0:25:59
+2020-05-13 07:26:00 INFO: total: 2.328 GB
+2020-05-13 07:26:00 INFO: total: 19724 wavs
+
+2020-05-14 07:00:01 INFO: start download from firebase.
+2020-05-14 07:10:09 INFO: complete download from firebase.
+2020-05-14 07:10:09 INFO: download elapsed time: 0:10:08
+2020-05-14 07:10:13 INFO: start copy to GD.
+2020-05-14 07:24:09 INFO: complete copy to GD. (by system copy)
+2020-05-14 07:24:09 INFO: copy elapsed time: 0:13:59
+2020-05-14 07:24:09 INFO: total elapsed time: 0:24:07
+2020-05-14 07:24:09 INFO: total: 2.328 GB
+2020-05-14 07:24:09 INFO: total: 19724 wavs
+
+2020-05-15 07:00:02 INFO: start download from firebase.
+2020-05-15 07:08:50 INFO: complete download from firebase.
+2020-05-15 07:08:50 INFO: download elapsed time: 0:08:48
+2020-05-15 07:08:53 INFO: start copy to GD.
+2020-05-15 07:22:33 INFO: complete copy to GD. (by system copy)
+2020-05-15 07:22:33 INFO: copy elapsed time: 0:13:43
+2020-05-15 07:22:33 INFO: total elapsed time: 0:22:31
+2020-05-15 07:22:33 INFO: total: 2.334 GB
+2020-05-15 07:22:33 INFO: total: 19772 wavs
+
+2020-05-16 07:00:02 INFO: start download from firebase.
+2020-05-16 07:10:13 INFO: complete download from firebase.
+2020-05-16 07:10:13 INFO: download elapsed time: 0:10:11
+2020-05-16 07:10:26 INFO: start copy to GD.
+2020-05-16 07:24:05 INFO: complete copy to GD. (by system copy)
+2020-05-16 07:24:05 INFO: copy elapsed time: 0:13:52
+2020-05-16 07:24:05 INFO: total elapsed time: 0:24:03
+2020-05-16 07:24:05 INFO: total: 2.338 GB
+2020-05-16 07:24:05 INFO: total: 19812 wavs
+
+2020-05-17 07:00:02 INFO: start download from firebase.
+2020-05-17 07:11:41 INFO: complete download from firebase.
+2020-05-17 07:11:41 INFO: download elapsed time: 0:11:38
+2020-05-17 07:11:55 INFO: start copy to GD.
+2020-05-17 07:25:25 INFO: complete copy to GD. (by system copy)
+2020-05-17 07:25:25 INFO: copy elapsed time: 0:13:44
+2020-05-17 07:25:25 INFO: total elapsed time: 0:25:23
+2020-05-17 07:25:25 INFO: total: 2.338 GB
+2020-05-17 07:25:25 INFO: total: 19812 wavs
+
+2020-05-18 07:00:02 INFO: start download from firebase.
+2020-05-18 07:09:11 INFO: complete download from firebase.
+2020-05-18 07:09:11 INFO: download elapsed time: 0:09:09
+2020-05-18 07:09:21 INFO: start copy to GD.
+2020-05-18 07:23:47 INFO: complete copy to GD. (by system copy)
+2020-05-18 07:23:47 INFO: copy elapsed time: 0:14:35
+2020-05-18 07:23:47 INFO: total elapsed time: 0:23:45
+2020-05-18 07:23:47 INFO: total: 2.338 GB
+2020-05-18 07:23:47 INFO: total: 19812 wavs
+
+2020-05-19 07:00:04 INFO: start download from firebase.
+2020-05-19 07:10:03 INFO: complete download from firebase.
+2020-05-19 07:10:03 INFO: download elapsed time: 0:09:59
+2020-05-19 07:10:11 INFO: start copy to GD.
+2020-05-19 07:24:08 INFO: complete copy to GD. (by system copy)
+2020-05-19 07:24:08 INFO: copy elapsed time: 0:14:04
+2020-05-19 07:24:08 INFO: total elapsed time: 0:24:04
+2020-05-19 07:24:08 INFO: total: 2.349 GB
+2020-05-19 07:24:08 INFO: total: 19900 wavs
+
+2020-05-20 07:00:02 INFO: start download from firebase.
+2020-05-20 07:08:28 INFO: complete download from firebase.
+2020-05-20 07:08:28 INFO: download elapsed time: 0:08:25
+2020-05-20 07:08:36 INFO: start copy to GD.
+2020-05-20 07:23:11 INFO: complete copy to GD. (by system copy)
+2020-05-20 07:23:11 INFO: copy elapsed time: 0:14:42
+2020-05-20 07:23:11 INFO: total elapsed time: 0:23:08
+2020-05-20 07:23:11 INFO: total: 2.353 GB
+2020-05-20 07:23:11 INFO: total: 19932 wavs
+

@@ -1,0 +1,1 @@
+cmd /k "python count_labal_adult.py"

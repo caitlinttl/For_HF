@@ -1,0 +1,1 @@
+cmd /k "wav_repaire.py"

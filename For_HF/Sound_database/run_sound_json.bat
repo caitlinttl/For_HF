@@ -1,0 +1,1 @@
+cmd /k "sound_json.py"
